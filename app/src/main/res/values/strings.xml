@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">TabLayout_Recyclerview_viewpager2_test</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="action_settings">action_settings</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="dog">Dog</string>
+    <string name="rat">Rat</string>
+    <string name="mouse">Mouse</string>
+    <string name="cows">Cows</string>
+    <string name="snakes">Snakes</string>
+    <string name="monkeys">Monkeys</string>
+    <string name="lizards">Lizards</string>
+    <string name="baboons">Baboons</string>
+    <string name="tigers">Tigers</string>
+    <string name="lions">Lions</string>
+    <string name="flies">Flies</string>
+    <string name="ants">Ants</string>
+    <string name="birds">birds</string>
+    <string name="spiders">spiders</string>
+    <string name="bears">Bears</string>
+    <string name="kangaroo">Kangaroo</string>
+    <string name="pigs">Pigs</string>
+    <string name="cats">Cats</string>
+    <string name="horses">horses</string>
+    <string name="zebras">Zebras</string>
+    <string name="whales">Whales</string>
+    <string name="sharks">Sharks</string>
+    <string name="dolphins">Dolphins</string>
+    <string name="crabs">Crabs</string>
+    <string name="starfish">Starfish</string>
+    <string name="jelly_fish">Jellyfish</string>
+    <string name="fish">Fish</string>
+    <string name="pandas">Pandas</string>
+    <string name="ducks">Ducks</string>
+    <string name="make_you_own">Make you own list of African animals or you could Just copy animals from the Animals fragment, I\'ll give you a hint: create an adapter for africa fragment!!</string>
+    <string name="make_you_own_asia">Make you own list of Asian animals or you could Just copy animals from the Animals fragment, I\'ll give you a hint: create an adapter for africa fragment!!</string>
+</resources>
